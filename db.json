@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": 1, "name": "Soda", "price": 10, "stock": 20, "image": "https://via.placeholder.com/150" },
+    { "id": 2, "name": "Chips", "price": 15, "stock": 30, "image": "https://via.placeholder.com/150" },
+    { "id": 3, "name": "Candy", "price": 5, "stock": 25, "image": "https://via.placeholder.com/150" }
+  ]
+}
